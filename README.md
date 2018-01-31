@@ -15,11 +15,10 @@ Puis lancer le serveur de développement avec :
 `ng serve`
 
 ## Objectifs
-[ ] .
-[ ] .
-[ ] .
-[ ] .
-[ ] .
+[] Créer une directive dans le dossier du component exercice-1 avec le nom : color.
+[] Posititioner la directive sur le paragraphe du component exercice-1 .
+[] Quand l'utilisateur appuis sur une touche directionnelle ( les flèches du clavier ), la couleur du text du paragraphe sur lequel est positioné la directive 'color' doit changer.
+[] Chaque flèche doit correspondre à une couleur.
 
       
 ## Avant de finir le projet
