@@ -6,8 +6,10 @@ import { Component, OnInit, HostListener } from '@angular/core';
 })
 export class Exercice1Component implements OnInit {
 
-  // Ce Hostlistener permet d'ecouter un event sur la window globale;
-  // Peut-être que cela vous sera utile dans votre directive !
+  // Ce Hostlistener permet d'écouter un événement sur l'objet window global;
+  // Peut-être que cela vous sera utile pour votre directive ;)
+  // (Il vous faudra bien sûr le déplacer dans celle-ci)
+
   // @HostListener('window:click', ['$event']) windowClick($event) {
   //   console.log($event);
   // }
