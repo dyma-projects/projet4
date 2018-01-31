@@ -1,9 +1,12 @@
-# Projet chapitre 4
+# Projet 4 => chapitre 6
 
-<!-- Dans ce projet nous allons mettre en pratique tout ce que nous avons vu dans le chapitre 2. Sauf que cette fois, c'est à vous de jouer ! Au programme, la création de composants, l'utilisation des différentes liaisons de données ainsi que des directives de base.
+Dans ce projet on va s'interesser aux directives ! Vous aller créer votre propre directive qui va 
+vous permettre de faire un truc sympa !
 
-Notez bien que le l'UI ( l'interface utilisateur rendue grâce au CSS ) ne rentre pas du tout en compte dans la réalisation des exercices. L'objectif, c'est de maitriser Angular. Vous aurez l'occasion de montrer vos talents graphiques sur les projets avancés.
- -->
+Pensez a regarder dans le exercice-1.component.ts il y a un indice sur la facon d'écouter un évènement sur la fenêtre principale .
+
+Bon courage :)
+
 ## Lancer le projet
 
 Pour lancer l'application il faut d'abord installer les dépendances avec npm : 
